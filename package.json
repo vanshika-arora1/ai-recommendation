@@ -1,0 +1,13 @@
+{
+  "name": "ai-recommendation-backend",
+  "version": "1.0.0",
+  "description": "AI Employee Performance Analytics & Recommendation System - Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
